@@ -1,5 +1,5 @@
 # Trajectory_clustering
-script for analysing data frame from tracking chloroplast movements.
+Script for analyzing data from software that tracks the movements of chloroplasts in plant cells.
 
 The script performs a step-by-step analysis of data describing the trajectories of chloroplast movement.
 The data was obtained using the TrackMate plugin for Fiji opensource software.
