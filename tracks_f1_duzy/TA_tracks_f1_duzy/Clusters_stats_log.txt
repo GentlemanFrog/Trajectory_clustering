@@ -1,0 +1,51 @@
+Date of file creation: 01.06.2023 12:56
+________ Normality test ________
+
+________ CONFINEMENT_RATIO ________
+
+________ 0 ________
+
+shapiro: 1.4253460904001258e-05
+levene: 0.011247349790236739
+________ 1 ________
+
+shapiro: 0.2297704964876175
+levene: 0.011247349790236739
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+________ 0 ________
+
+shapiro: 2.9090122552588582e-05
+levene: 6.446067028401855e-05
+________ 1 ________
+
+shapiro: 0.18889376521110535
+levene: 6.446067028401855e-05
+________ Mann-Whitney test ________
+
+________ CONFINEMENT_RATIO ________
+
+Statistic: 6587.0
+P-value: 3.794617160624072e-23
+Groups_differ: Yes
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+Statistic: 6557.0
+P-value: 9.372968160536661e-23
+Groups_differ: Yes
+________ Change in angles stats ________
+
+________ 0 ________
+
+mean_angle: 181.70891172379945
+median_angle: 182.7706225959686
+std_angle: 104.77029841411623
+max_angle: 359.9684500403675
+min_angle: 0.0
+________ 1 ________
+
+mean_angle: 181.14680826775043
+median_angle: 181.70669934402034
+std_angle: 104.15347458147373
+max_angle: 359.98302473041707
+min_angle: 0.0
