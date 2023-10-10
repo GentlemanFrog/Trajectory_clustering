@@ -149,3 +149,203 @@ median_angle: 219.3431705527712
 std_angle: 113.09697807340945
 max_angle: 359.5520441080337
 min_angle: 0.2973226711336056
+________ Normality test ________
+
+________ CONFINEMENT_RATIO ________
+
+________ 0 ________
+
+shapiro: 8.938401151681319e-05
+levene: 0.03829993500378304
+________ 1 ________
+
+shapiro: 0.8985963463783264
+levene: 0.03829993500378304
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+________ 0 ________
+
+shapiro: 1.3490210726274654e-08
+levene: 0.0001827100021172943
+________ 1 ________
+
+shapiro: 0.8662445545196533
+levene: 0.0001827100021172943
+________ Mann-Whitney test ________
+
+________ CONFINEMENT_RATIO ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ Change in angles stats ________
+
+________ 0 ________
+
+mean_angle: 182.5561500652876
+median_angle: 184.8841102078735
+std_angle: 104.54924781517057
+max_angle: 359.99999999995316
+min_angle: 0.0
+________ 1 ________
+
+mean_angle: 191.71277944636566
+median_angle: 219.3431705527712
+std_angle: 113.09697807340945
+max_angle: 359.5520441080337
+min_angle: 0.2973226711336056
+________ Normality test ________
+
+________ CONFINEMENT_RATIO ________
+
+________ 0 ________
+
+shapiro: 8.938401151681319e-05
+levene: 0.03829993500378304
+________ 1 ________
+
+shapiro: 0.8985963463783264
+levene: 0.03829993500378304
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+________ 0 ________
+
+shapiro: 1.3490210726274654e-08
+levene: 0.0001827100021172943
+________ 1 ________
+
+shapiro: 0.8662445545196533
+levene: 0.0001827100021172943
+________ Mann-Whitney test ________
+
+________ CONFINEMENT_RATIO ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ Change in angles stats ________
+
+________ 0 ________
+
+mean_angle: 182.5561500652876
+median_angle: 184.8841102078735
+std_angle: 104.54924781517057
+max_angle: 359.99999999995316
+min_angle: 0.0
+________ 1 ________
+
+mean_angle: 191.71277944636566
+median_angle: 219.3431705527712
+std_angle: 113.09697807340945
+max_angle: 359.5520441080337
+min_angle: 0.2973226711336056
+________ Normality test ________
+
+________ CONFINEMENT_RATIO ________
+
+________ 0 ________
+
+shapiro: 8.938401151681319e-05
+levene: 0.03829993500378304
+________ 1 ________
+
+shapiro: 0.8985963463783264
+levene: 0.03829993500378304
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+________ 0 ________
+
+shapiro: 1.3490210726274654e-08
+levene: 0.0001827100021172943
+________ 1 ________
+
+shapiro: 0.8662445545196533
+levene: 0.0001827100021172943
+________ Mann-Whitney test ________
+
+________ CONFINEMENT_RATIO ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ Change in angles stats ________
+
+________ 0 ________
+
+mean_angle: 182.5561500652876
+median_angle: 184.8841102078735
+std_angle: 104.54924781517057
+max_angle: 359.99999999995316
+min_angle: 0.0
+________ 1 ________
+
+mean_angle: 191.71277944636566
+median_angle: 219.3431705527712
+std_angle: 113.09697807340945
+max_angle: 359.5520441080337
+min_angle: 0.2973226711336056
+________ Normality test ________
+
+________ CONFINEMENT_RATIO ________
+
+________ 0 ________
+
+shapiro: 8.938401151681319e-05
+levene: 0.03829993500378304
+________ 1 ________
+
+shapiro: 0.8985963463783264
+levene: 0.03829993500378304
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+________ 0 ________
+
+shapiro: 1.3490210726274654e-08
+levene: 0.0001827100021172943
+________ 1 ________
+
+shapiro: 0.8662445545196533
+levene: 0.0001827100021172943
+________ Mann-Whitney test ________
+
+________ CONFINEMENT_RATIO ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ MEAN_STRAIGHT_LINE_SPEED ________
+
+Statistic: 0.0
+P-value: 4.4513365536842194e-10
+Groups_differ: Yes
+________ Change in angles stats ________
+
+________ 0 ________
+
+mean_angle: 182.5561500652876
+median_angle: 184.8841102078735
+std_angle: 104.54924781517057
+max_angle: 359.99999999995316
+min_angle: 0.0
+________ 1 ________
+
+mean_angle: 191.71277944636566
+median_angle: 219.3431705527712
+std_angle: 113.09697807340945
+max_angle: 359.5520441080337
+min_angle: 0.2973226711336056
